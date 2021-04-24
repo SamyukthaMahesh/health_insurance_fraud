@@ -17,5 +17,7 @@ Rename the following files as such: <br>
 	4. Train-1542865627584 to ProviderData.csv
 
 
-Tableau_final.twb  has the exploration done via tableau.
-The file for tableau is the excel sheet named  " Fraud Detection Data"
+Tableau_final.twb  has the exploration done via tableau.<br>
+The file for tableau is the excel sheet named  " Fraud Detection Data"<br>
+The file can be downloaded from <br>
+https://drive.google.com/file/d/1gfy6sDPBsKK-qHo8LVbmyUqSPnI2NY4A/view?usp=sharing
