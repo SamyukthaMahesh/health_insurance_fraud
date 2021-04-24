@@ -15,3 +15,6 @@ Rename the following files as such: <br>
 	2. Train_Inpatientdata-1542865627584 to InpatientData.csv <br>
 	3. Train_Outpatientdata-1542865627584 to OutpatientData.csv <br>
 	4. Train-1542865627584 to ProviderData.csv
+
+
+Tableau_final.twb  has the exploration done via tableau
